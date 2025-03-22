@@ -30,7 +30,7 @@ Ensure you have the following dependencies installed:
 - PyTorch (if using GPU acceleration)
 - Jupyter Notebook
 - whisper
-- 
+
 ## Technologies Used
 
 ### Programming Language
